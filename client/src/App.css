@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  font-family: cursive;
+  font-size: larger;
+  /* padding: 20px; */
+}
+
+.Adding {
+  border: 5px solid red;
+  background-color: rgb(172, 175, 209);
+  color: red;
+  height: 8px;
+  margin: 20px, 80px;
+  padding: 20px;
+}
